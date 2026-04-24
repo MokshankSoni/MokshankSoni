@@ -28,6 +28,49 @@ A final-year Information Technology student with a primary focus on **Machine Le
 
 ---
 
+# 🤖 Generative AI & LLMs:
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+
+**What I explore:**
+- Prompt Engineering — Zero-shot, Few-shot, Chain-of-Thought prompting
+- LLM Integration — API-based LLM usage, context window management
+- RAG (Retrieval-Augmented Generation) — document pipelines, vector search
+- AI Agents — tool-calling, multi-step reasoning workflows
+
+---
+
+# 📊 Exploratory Data Analysis (EDA):
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**What I do:**
+- Univariate & multivariate analysis
+- Correlation heatmaps, distribution plots, outlier detection
+- Feature importance visualization
+- Statistical summaries and data profiling
+
+---
+
+# 🏗️ Data Engineering:
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
+
+**What I work on:**
+- ETL Pipelines — Extract, Transform, Load workflows
+- Schema design & normalization for structured datasets
+- Handling multivariate time-series datasets end-to-end
+- Data storage strategies — relational, NoSQL, caching layers
+
+---
+
 # 💻 Full-Stack & Backend Development:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
@@ -35,10 +78,6 @@ A final-year Information Technology student with a primary focus on **Machine Le
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
@@ -47,14 +86,6 @@ A final-year Information Technology student with a primary focus on **Machine Le
 - **JWT Authentication** + Role-Based Access Control (Super Admin, Tenant Admin, Project Manager, Team Member, Client)
 - **Multi-Tenancy Architecture** — Schema-based multi-tenancy, dynamic schema creation per tenant, data isolation
 - **MinIO** — S3-compatible file storage, upload & retrieval integration
-
----
-
-# 🗄️ Databases & Storage:
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 
 ---
 
