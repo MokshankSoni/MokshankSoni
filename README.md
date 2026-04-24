@@ -71,13 +71,13 @@ A final-year Information Technology student with a primary focus on **Machine Le
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=MokshankSoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MokshankSoni&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshankSoni&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_title=true&area=true&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff)
+![](https://github-readme-activity-graph.vercel.app/graph?username=MokshankSoni&theme=tokyo-night&hide_title=true&area=true&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff)
